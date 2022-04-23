@@ -6,3 +6,9 @@ console.log(a);
 
 const a = "asdasadas";
 console.log(a);
+
+const a = "asdasadas";
+console.log(a);
+
+const a = "asdaas";
+console.log(a);
